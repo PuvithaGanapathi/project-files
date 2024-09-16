@@ -1,0 +1,20 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    color: aqua;
+   
+}
+img{
+    box-shadow: 2px 2px grey;
+}
+
+h1{
+    text-shadow: 2px 2px solid grey;
+}
+.one{
+    text-decoration: none;
+    color: aquamarine;
+}
+.num{
+    cursor: pointer;
+}
