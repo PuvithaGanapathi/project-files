@@ -18,3 +18,7 @@ h1{
 .num{
     cursor: pointer;
 }
+img{
+    padding:20px;
+    margin:20px;
+}
